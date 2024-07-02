@@ -1,0 +1,14 @@
+C:\Users\Jesús\source\repos\PerreraPOO\bin\Debug\net8.0\PerreraPOO.exe
+C:\Users\Jesús\source\repos\PerreraPOO\bin\Debug\net8.0\PerreraPOO.deps.json
+C:\Users\Jesús\source\repos\PerreraPOO\bin\Debug\net8.0\PerreraPOO.runtimeconfig.json
+C:\Users\Jesús\source\repos\PerreraPOO\bin\Debug\net8.0\PerreraPOO.dll
+C:\Users\Jesús\source\repos\PerreraPOO\bin\Debug\net8.0\PerreraPOO.pdb
+C:\Users\Jesús\source\repos\PerreraPOO\obj\Debug\net8.0\PerreraPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesús\source\repos\PerreraPOO\obj\Debug\net8.0\PerreraPOO.AssemblyInfoInputs.cache
+C:\Users\Jesús\source\repos\PerreraPOO\obj\Debug\net8.0\PerreraPOO.AssemblyInfo.cs
+C:\Users\Jesús\source\repos\PerreraPOO\obj\Debug\net8.0\PerreraPOO.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\source\repos\PerreraPOO\obj\Debug\net8.0\PerreraPOO.dll
+C:\Users\Jesús\source\repos\PerreraPOO\obj\Debug\net8.0\refint\PerreraPOO.dll
+C:\Users\Jesús\source\repos\PerreraPOO\obj\Debug\net8.0\PerreraPOO.pdb
+C:\Users\Jesús\source\repos\PerreraPOO\obj\Debug\net8.0\PerreraPOO.genruntimeconfig.cache
+C:\Users\Jesús\source\repos\PerreraPOO\obj\Debug\net8.0\ref\PerreraPOO.dll
